@@ -20,7 +20,7 @@ introduction-python/
 * `pyproject.toml` : configuration du projet et déclaration des dépendances.
 * `poetry.lock` : versions exactes des dépendances installées.
 
-## 🛠️ Prérequis
+## Prérequis
 
 Avant de commencer, il est nécessaire d'avoir installé :
 
