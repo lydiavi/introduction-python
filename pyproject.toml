@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "names_evolution_usa"
+version = "0.1.0"
+description = ""
+authors = ["Lydia Vijayarajah <lydia.vijayarajah@finances.gouv.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^3.0.5"
+ipykernel = "^7.3.0"
+matplotlib = "^3.11.1"
+seaborn = "^0.13.2"
+lxml = "^6.1.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^7.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
